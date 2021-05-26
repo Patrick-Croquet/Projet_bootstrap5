@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.0.1",
+    "carousel": "^0.0.3"
+  }
+}
