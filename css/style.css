@@ -33,7 +33,8 @@
 .navbar-custom .nav-item:hover .nav-link {
   color: #ffffff;
   background-color: #aabdcd; /* add background-color to active links */
-}.navbar-custom {
+}
+.navbar-custom {
   background-color: #aabdcd;
 }
 
